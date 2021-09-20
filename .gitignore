@@ -3,5 +3,6 @@
 /*.map
 yarn.lock
 coverage
+!index.js
 *.log
 node_modules
